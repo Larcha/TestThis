@@ -1,0 +1,20 @@
+Uppföljningsområden
+
+
+- Cluster Columnstore Index
+
+
+- Hur länge sparas data
+- Automatiserade rensningar
+- Partitionering av data
+- Cluster Columnstore Index
+
+- Det som går att räkna ut på radnivå görs i DW
+- Det som behöver räknas ut på rad set görs troligen i Qlik
+
+
+- Artikel pris Per Butik, Artikel , from - to
+- Svinn, lagertransaktioner, Per butik, Artikel, Dag
+
+
+
